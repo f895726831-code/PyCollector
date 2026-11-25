@@ -279,9 +279,21 @@ pytest tests/unit/test_collector.py
 
 框架内置 `conftest.py`，提供内存 SQLite 和 FastAPI `TestClient` 夹具。
 
+## 贡献
+
+欢迎贡献！详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
+
 ## 许可证
 
 MIT — 详见 [LICENSE](LICENSE)。
+
+## 作者
+
+详见 [AUTHORS.md](AUTHORS.md)。
+
+## 变更日志
+
+详见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 致谢
 
