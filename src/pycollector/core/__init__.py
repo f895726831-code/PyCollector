@@ -1,0 +1,1 @@
+"""Core infrastructure — errors, observability, and settings."""

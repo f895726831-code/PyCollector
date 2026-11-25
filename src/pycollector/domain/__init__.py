@@ -1,0 +1,1 @@
+"""Domain layer — enums and pure business-logic types."""

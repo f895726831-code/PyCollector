@@ -1,0 +1,1 @@
+"""Repository layer — generic SQLAlchemy CRUD base."""

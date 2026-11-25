@@ -1,0 +1,1 @@
+"""Scheduler — background job dispatch with retry and observability."""

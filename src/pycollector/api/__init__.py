@@ -1,0 +1,1 @@
+"""API layer — router builder and route helpers."""
