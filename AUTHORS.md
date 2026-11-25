@@ -6,7 +6,7 @@ PyCollector was created and is maintained by the following contributors:
 
 | Name | GitHub | Role |
 |------|--------|------|
-| 范盟 (Meng Fan) | — | Project Lead, Architecture & Design |
+| [f895726831-code](https://github.com/f895726831-code) | — | Project Lead, Architecture & Design |
 
 ## Acknowledgements
 
